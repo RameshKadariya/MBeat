@@ -33,4 +33,17 @@ Build the project using Gradle:
 ./gradlew build
 Run the application:
 ./gradlew run
+## Contributing
+
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Make sure to follow the contribution guidelines outlined in `CONTRIBUTING.md`.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more information.
+
+## Contact
+
+Developer: Ramesh Kadariya  
+Email: [contact@rameshkadariya@com.np](mailto:contact@rameshkadariya.com.np)
+
 
