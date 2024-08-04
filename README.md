@@ -29,3 +29,27 @@ To install and run MBeat, follow these steps:
 Navigate to the project directory:
 ```sh
 cd MBeat
+Build the project using Gradle:
+./gradlew build
+Run the application:
+./gradlew run
+
+
+## Contributing
+
+Contributions are welcome! To contribute to the Fitness Project, follow these steps:
+
+1. **Fork the Repository**: Create your own fork of the repository.
+2. **Create a Feature Branch**:
+    ```bash
+    git checkout -b feature-branch-name
+    ```
+3. **Commit Your Changes**:
+    ```bash
+    git commit -m "Description of changes"
+    ```
+4. **Push to Your Branch**:
+    ```bash
+    git push origin feature-branch-name
+    ```
+5. **Create a Pull Request**: Submit a pull request for review.
