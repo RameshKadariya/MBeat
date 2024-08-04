@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/av_orange</item>
+        <item name="colorPrimaryDark">@color/av_green</item>
+    </style>
+
+    <!-- Custom Toolbar style -->
+    <style name="CustomToolbar" parent="Widget.AppCompat.Toolbar">
+        <item name="android:layout_height">100dp</item> <!-- Increased height -->
+        <item name="android:minHeight">100dp</item> <!-- Increased minimum height -->
+        <item name="android:background">?attr/colorPrimary</item> <!-- Toolbar background color -->
+    </style>
+
+    <!-- Custom Toolbar title style -->
+    <style name="ToolbarTitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">24sp</item> <!-- Larger text size -->
+        <item name="android:textColor">#FFFFFF</item> <!-- White text color (or adjust as needed) -->
+        <item name="android:textStyle">bold</item> <!-- Bold text style -->
+    </style>
+</resources>

@@ -38,4 +38,6 @@ dependencies {
     androidTestImplementation libs.ext.junit
     androidTestImplementation libs.espresso.core
     implementation 'com.karumi:dexter:6.2.3'
+    implementation 'com.gauravk.audiovisualizer:audiovisualizer:0.9.2'
+
 }
